@@ -6,8 +6,9 @@ This dashboard was built using the following tools:
 - **Power BI** (data visualization).
 
 ## Business Questions
-- 
-- 
-- 
+- What is the Top 10 countries with the highesst/lowest average for Data Analysts? 
+- What is the most paid jobs in technology?
+- Which type of work is more common in tech jobs? Remote? On-Site? Hybrids?
+- Is the average wage increasing or decreasing along the years for Data Engineers?
 
 ## Answers and Conclusion
