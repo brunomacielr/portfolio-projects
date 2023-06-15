@@ -6,9 +6,9 @@ This dashboard was built using the following tools:
 - **Power BI** (data visualization).
 
 ## Business Questions
-- 
-- 
-- 
+- Identify different customer profiles. How would you qualitatively describe the traced profiles?
+- Which client profiles would you recommend the company to focus on for sales (new clients), aiming for long-term results?
+- Now thinking about clients who have already purchased the product, which customer channel would you focus efforts on to increase profitability?
 
 ## Answers and Conclusion
 
