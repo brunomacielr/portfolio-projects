@@ -19,7 +19,7 @@ According to an analysis through the table constructed in the dashboard, the sec
 
 
 ![HRActualBudget](hr_actual_budget2.png)
-![HRGoal](hr_%.png)
+![HRGoal](hr_percent.png)
 
 The HR department was one of the sectors that exceeded the agreed budget at the beginning of the year. Therefore, there were no cost savings as the question presupposed.
 The accounts that contributed the most to the goal not being well, were Employee Benefits and Outsourced Professionals because, in both cases, there were expenses but no provision was made for these expenses. The final result, as stated in the image above, was 133.62% of the budget.
