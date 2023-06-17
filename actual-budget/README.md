@@ -13,22 +13,19 @@ This dashboard was built using the following tools:
 ## Answers and Conclusion
 
 
-![Finance](
+![Finance](fin_sal.png)
 
 According to an analysis through the table constructed in the dashboard, the sector that most incurs expenses on Salaries is the Finance department. In the first quarter of the year 2019 (the project's reference year), the team has already spent $270,000 USD. The second department that spends the most is a tie between Sales and Accounting, both of which had expenses of $150,000 USD in the first quarter.
 
 
-![HRActualBudget](
-![HRGoal](
+![HRActualBudget](hr_actual_budget.png)
+![HRGoal](hr_%.png)
 
 The HR department was one of the sectors that exceeded the agreed budget at the beginning of the year. Therefore, there were no cost savings as the question presupposed.
 The accounts that contributed the most to the goal not being well, were Employee Benefits and Outsourced Professionals because, in both cases, there were expenses but no provision was made for these expenses. The final result, as stated in the image above, was 133.62% of the budget.
 
 
-![TrainingEntries](
+![TrainingEntries](training_entries.png)
 
 In the second page of the dashboard, we have the breakdown of all cost/expense entries in the company's 1Q. Thus, to answer the second question, we will use this table.
 When combining the expenses from all areas of the company, it is observed that approximately $14,000 USD was spent on training and development, with expenses divided among the Sales, HR, and Compliance departments.
-
-
-
