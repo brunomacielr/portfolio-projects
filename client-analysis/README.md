@@ -1,4 +1,4 @@
-## Analysis and categorization of customers for a retailer
+## Analysis and Categorization of Customers for a Retailer
 This project is an [interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODkwMDU4ZGEtYTRhYi00MTE3LWE4MzktYTk0OGJhZDQ5ZDRiIiwidCI6Ijc3YjdkYTEzLTdiNTgtNGRkMi05MTI4LWEyNzhhMjc4MWRhMCJ9) that can be utilized by a retailer company for client categorization. These categorizations play a crucial role in identifying the company's top clients and assist stakeholders in devising strategies to enhance revenue.
 
 This dashboard was built using the following tools:
