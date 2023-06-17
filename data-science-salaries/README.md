@@ -17,13 +17,16 @@ This dashboard was built using the following tools:
 
 According to the image above, for this response, I opt for funnel charts. The highest average salaries among Data Analysts are concentrated in companies from the United States, Australia, and Canada, while the countries with the lowest compensation for these analysts are Brazil, Pakistan, and Nigeria.
 
+
 ![MostPaidJobs](most_paid_jobs.png)
 
 I used a chart to visually demonstrate and label the highest-paying technology professions in the market based on this research. It is evident that these professions are leadership roles, more strategic in nature, such as Data Science Tech Lead, Data Lead, and Cloud Data Architect.
 
+
 ![TypeofWork](type_of_work.png)
 
 Cards were utilized to answer this question. There is a significant balance between remote and on-site work in the technology field, as shown in the image. This balance can be mainly attributed to the fact that many of the positions are filled by foreign professionals, such as those residing in Brazil but working for American companies.
+
 
 ![DataEngineerYears](avg_sal_data_engineer.png)
 
