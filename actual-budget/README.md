@@ -18,7 +18,7 @@ This dashboard was built using the following tools:
 According to an analysis through the table constructed in the dashboard, the sector that most incurs expenses on Salaries is the Finance department. In the first quarter of the year 2019 (the project's reference year), the team has already spent $270,000 USD. The second department that spends the most is a tie between Sales and Accounting, both of which had expenses of $150,000 USD in the first quarter.
 
 
-![HRActualBudget](hr_actual_budget.png)
+![HRActualBudget](hr_actual_budget2.png)
 ![HRGoal](hr_%.png)
 
 The HR department was one of the sectors that exceeded the agreed budget at the beginning of the year. Therefore, there were no cost savings as the question presupposed.
