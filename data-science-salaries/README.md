@@ -28,6 +28,6 @@ I used a chart to visually demonstrate and label the highest-paying technology p
 Cards were utilized to answer this question. There is a significant balance between remote and on-site work in the technology field, as shown in the image. This balance can be mainly attributed to the fact that many of the positions are filled by foreign professionals, such as those residing in Brazil but working for American companies.
 
 
-![DataEngineerYears](avg_sal_data_engineer.png)
+![DataEngineerYears](avg_sal_data_engineer_2.png)
 
 Lastly, for the last question, a line chart was used, as it is perfect for temporal analysis. Thus, the chart below demonstrates that since 2020, according to the research, the average salary for Data Engineers has been increasing year after year, with a notable leap from 2021 to 2022, where the average went from 93.9k USD to 139.6k USD, equivalent to almost a 50% increase.
