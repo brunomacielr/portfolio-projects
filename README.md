@@ -11,3 +11,6 @@ I used a fictional database, cleaning and treatment of data in Excel, and dashbo
 
 ### [Salary Study on Data Science Professions Worldwide](https://app.powerbi.com/view?r=eyJrIjoiZDYwYjJhNWEtOWVmOC00MThmLTlhYmMtYzU1ZmJkODg0MzIyIiwidCI6Ijc3YjdkYTEzLTdiNTgtNGRkMi05MTI4LWEyNzhhMjc4MWRhMCJ9)
 I used Kaggle's database, cleaning and treatment of data in Excel, and dashboard in Microsoft Power BI.
+
+### [Business Analysis of a Proptech Company](https://lookerstudio.google.com/reporting/8c8084c4-de29-4d9b-aeaf-e582c2ab9f23/page/QHAID)
+I used fictional database, cleaning and treatment of data in Google Sheets, and dashboard in Looker Studio.
