@@ -13,21 +13,23 @@ This dashboard was built using the following tools:
 
 ## Answers and Conclusion
 
-![Top10Countries](highest_lowest_avg.png)
+![SalesFunnel](sales-funnel.png)
 
-According to the image above, for this response, I opt for funnel charts. The highest average salaries among Data Analysts are concentrated in companies from the United States, Australia, and Canada, while the countries with the lowest compensation for these analysts are Brazil, Pakistan, and Nigeria.
-
-
-![MostPaidJobs](most_paid_jobs_2.png)
-
-I used a chart to visually demonstrate and label the highest-paying technology professions in the market based on this research. It is evident that these professions are leadership roles, more strategic in nature, such as Data Science Tech Lead, Data Lead, and Cloud Data Architect.
+We can observe a gradual increase month after month in both the number of scheduled visits and, especially, the number of actual visits that are realized. However, the same trend is not reflected in the bottom of the funnel, where the contract with the client is finalized and signed. Therefore, it is evident that while visits are increasing, the number of contracts is decreasing, exposing a flaw in the effectiveness of lead-to-customer conversion. According to the database, the average conversion rate during the analyzed period of 2018 was 6%.
 
 
-![TypeofWork](type_of_work.png)
+![ConversionLeads](conversion_leads.png)
 
-Cards were utilized to answer this question. There is a significant balance between remote and on-site work in the technology field, as shown in the image. This balance can be mainly attributed to the fact that many of the positions are filled by foreign professionals, such as those residing in Brazil but working for American companies.
+Based on the Conversion of Visits to Signed Contracts chart, we noticed that the alignment between the app/website offering and what the lead is actually seeking was not being achieved. According to the provided data, the lead typically becomes a customer between the 4th and 7th visit. This reinforces the need for improvement in the bottom of the sales funnel
 
 
-![DataEngineerYears](avg_sal_data_engineer_2.png)
+![VisitsPerRegion](region-visits.png)
 
-Lastly, for the last question, a line chart was used, as it is perfect for temporal analysis. Thus, the chart below demonstrates that since 2020, according to the research, the average salary for Data Engineers has been increasing year after year, with a notable leap from 2021 to 2022, where the average went from 93.9k USD to 139.6k USD, equivalent to almost a 50% increase.
+A line chart was created using the provided visit table as the basis. The "state" column was used as the metric to understand where the visits occur the most. As a result, it was evident that the majority of visits take place in the Southeast region of Brazil, with a focus on São Paulo and Rio de Janeiro.
+
+
+![BigNumbers](big-numbers.png)
+
+Finally, big number cards were created to highlight the main arguments of visitors, both positive and negative.
+On the positive side, the aspects that caught the attention of leads were the location, condition, and size of the property.
+On the negative side, the primary areas of concern and improvement are the preservation of some properties and the fact that the property appeared larger and bigger in the app/site where the lead found it than in reality.
