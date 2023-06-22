@@ -18,7 +18,7 @@ This dashboard was built using the following tools:
 We can observe a gradual increase month after month in both the number of scheduled visits and, especially, the number of actual visits that are realized. However, the same trend is not reflected in the bottom of the funnel, where the contract with the client is finalized and signed. Therefore, it is evident that while visits are increasing, the number of contracts is decreasing, exposing a flaw in the effectiveness of lead-to-customer conversion. According to the database, the average conversion rate during the analyzed period of 2018 was 6%.
 
 
-![ConversionLeads](conversion_leads.png)
+![ConversionLeads](conversion-leads.png)
 
 Based on the Conversion of Visits to Signed Contracts chart, we noticed that the alignment between the app/website offering and what the lead is actually seeking was not being achieved. According to the provided data, the lead typically becomes a customer between the 4th and 7th visit. This reinforces the need for improvement in the bottom of the sales funnel
 
